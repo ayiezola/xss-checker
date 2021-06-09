@@ -1,1 +1,8 @@
 # xss-checker
+
+Simple XSS checker
+
+Usage:
+git clone https://github.com/ayiezola/xss-checker.git
+cd xss-checker.sh
+chmod +x xss-checker.sh
