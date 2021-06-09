@@ -11,3 +11,5 @@ cd xss-checker.sh
 chmod +x xss-checker.sh
 
 ./xss-checker.sh
+
+https://i.imgur.com/iWpz8Zx.png
