@@ -13,3 +13,5 @@ chmod +x xss-checker.sh
 ./xss-checker.sh
 
 ![github-small](https://i.imgur.com/iWpz8Zx.png)
+
+![github-small](https://i.imgur.com/D4MHeZQ.png)
